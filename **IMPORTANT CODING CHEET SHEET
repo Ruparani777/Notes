@@ -1,0 +1,6 @@
+MAXIMUM SUBARRAY or KADAGANE ALGO  or PRINT SUBARRAY WITH MAXSUM int max=INT_MIN use 2 loops i and j k return max and sum   2. i and j loop 3.kadagane algo: LONG LONG =MAXINT  sumofaray if sum>max =sum sum=0 
+2 SUM----------2 LOOP ARRAY(YES/NO) --------hashing ----2 pointer tech
+2SUM ----------VARIANT ----- PUSHBACK I AND J  (to print index)------hashing
+SORT 0 1 AND 2 easy
+
+
