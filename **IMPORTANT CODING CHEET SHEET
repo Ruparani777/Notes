@@ -2,5 +2,11 @@ MAXIMUM SUBARRAY or KADAGANE ALGO  or PRINT SUBARRAY WITH MAXSUM int max=INT_MIN
 2 SUM----------2 LOOP ARRAY(YES/NO) --------hashing ----2 pointer tech
 2SUM ----------VARIANT ----- PUSHBACK I AND J  (to print index)------hashing
 SORT 0 1 AND 2 easy
+MAJORITY ELEMENT  VARAIANTS 2 ---N/2 AND N/3 
+in N/2 no base case size check  no extra vector or array
+in n/3 if size ==2 break it has new array 
+ROTATE MATRIX BY 90 DEGREES----ATTACED IMAGE
+SET MATRIX ALSO--ATTACHED IMMAGE
+SPIRAL MATRIX IMAGE ATTACHED HERE
 
 
