@@ -1,0 +1,3 @@
+Private – It can neither be accessed nor be viewed from outside the class 
+Protected – It can be accessed if and only if the accessor is the derived class
+Public – It can be accessed or be viewed from outside the class 
